@@ -1,7 +1,7 @@
 {
   "name": "hatom-clone",
   "version": "0.1.0",
-  "homepage": "https://huzaifa-ventech.github.io/hatom-clone",
+  "homepage": "https://huzaifa-ventech.github.io/hatom",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",

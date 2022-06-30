@@ -93,6 +93,7 @@ header .button-container button {
   position: absolute;
   width: 100vw;
   left: 0;
+  top: 0;
 }
 #bg-img {
   z-index: 1;
